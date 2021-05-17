@@ -61,11 +61,6 @@ menus:
     target: _blank  
 
   -
-    href: /money.html
-    label: 挣钱
-    target: _self   
-
-  -
     href: /it.html
     label: 深度
     target: _self
