@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: lllwyvv/lllwyvv.github.io
 github_url: https://github.com/lllwyvv
 url: https://lllwyvv.github.io/
-enforce_ssl: ityouknow.com
+#enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
